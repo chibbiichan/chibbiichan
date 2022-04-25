@@ -8,6 +8,7 @@
 - 📫 How to reach me: **razalshane@gmail.com**
 
 - ⚡ Fun fact: **I'm a webtoon artist**
+- updating...........
 
 <p align="left">
 </p>
