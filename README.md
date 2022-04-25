@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shin</h1>
+<h1 align="center">Hi, I'm Shin 👋 </h1>
 <h3 align="center">🎊 Hello world!</h3>
 
 - 🔭 **I’m currently learning Graphic Design and Illustration**
